@@ -36,7 +36,3 @@ This information book will give information to the people to find the mobile num
 TIMER:
 Now-a-days students are wasting time and deviating for useless but if there are given time they are using time completely so if they put timer for a limited time atleast they can maintain time upto a level better than using mobile for timer,As if there are using mobile a small notification can deviate them from there main work.
 Timer provided is more useful to maintain time and to do a work in time.
-
-# By
-
-GanaSasank
